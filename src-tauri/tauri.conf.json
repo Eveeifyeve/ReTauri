@@ -3,7 +3,7 @@
     "beforeDevCommand": "",
     "beforeBuildCommand": "",
     "devPath": "http://localhost:5173/",
-    "distDir": "http://app.chat.revolt",
+    "distDir": "https://revolt.chat/app",
     "withGlobalTauri": true
   },
   "package": {
