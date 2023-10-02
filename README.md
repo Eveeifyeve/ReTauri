@@ -2,7 +2,8 @@
 A Revolt app in tauri
 
 
-## Recommended IDE Setup 
+**Requirements**
+[Rust@Latest]()
+[Bun](https://bun.sh/docs/installation)
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 

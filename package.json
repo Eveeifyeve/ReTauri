@@ -4,6 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "update": "npm install && cd src-tauri && cargo update",
+    "dev": "npm run tauri dev",
     "tauri": "tauri"
   },
   "devDependencies": {
